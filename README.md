@@ -9,7 +9,7 @@
 
 ### 🔗 Repositório do Código
 
-[Link para o repositório GitHub]
+[\[Link para o repositório GitHub\]](https://github.dev/rornellas/tech-challenge-3-ia4devs)
 
 ---
 
