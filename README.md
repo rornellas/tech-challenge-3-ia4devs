@@ -11,6 +11,10 @@
 
 [\[Link para o repositório GitHub\]](https://github.dev/rornellas/tech-challenge-3-ia4devs)
 
+### 🔗 Vídeo de Apresentação
+
+[\[Link para o vído no YouTube\]] (https://youtu.be/7HBYqIoyTLQ?si=kI_IbkHL49ETvi-Y)
+
 ---
 
 ## 1. Introdução
